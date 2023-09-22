@@ -20,9 +20,7 @@ I am self-taught developer from India,and interested in compertstive programing,
 
 ## Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='70'>](https://github.com/codewithann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='70'>](https://www.instagram.com/anandjha.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='70'>](https://www.youtube.com/@codenbeer)  
-
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/anandjha.dev/)
-
+ 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## Badges
