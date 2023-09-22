@@ -29,7 +29,7 @@ I am self-taught developer from India,and interested in compertstive programing,
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithAnn)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithann&layout=donut)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
