@@ -1,8 +1,9 @@
+<div align="center">
+  
 # Anand Jha
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 
 I am self-taught developer from India,and interested in compertstive programing, Flutter Development, Deep learning and Robotics 
-
 
 - 🌱 I’m currently learning Flutter  
 - ⚡ Fun fact: I believe in "Learn by Doing" 
@@ -36,7 +37,7 @@ I am self-taught developer from India,and interested in compertstive programing,
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 <br><br>
 
-### Stats
+## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodewithAnn&show_icons=true&theme=tokyonight)
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
