@@ -42,4 +42,4 @@ I am self-taught developer from India,and interested in compertstive programing,
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🔥 Streaks
-![GitHub streak stats](https://streak-stats.demolab.com/?user=codewithann)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithann)](https://git.io/streak-stats)
